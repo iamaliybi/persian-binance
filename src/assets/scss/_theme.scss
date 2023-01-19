@@ -1,0 +1,9 @@
+html {
+	&.dark {
+		@import "theme/dark";
+	}
+
+	&:not(.dark) {
+		@import "theme/light";
+	}
+}

@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "BinancePlex";
+	font-display: swap;
+	src: url("/assets/fonts/BinancePlex-Regular.woff2") format("woff2"), url("/assets/fonts/BinancePlex-Regular.otf") format("opentype");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "BinancePlex";
+	font-display: swap;
+	src: url("/assets/fonts/BinancePlex-Medium.woff2") format("woff2"), url("/assets/fonts/BinancePlex-Medium.otf") format("opentype");
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: "BinancePlex";
+	font-display: swap;
+	src: url("/assets/fonts/BinancePlex-SemiBold.woff2") format("woff2"), url("/assets/fonts/BinancePlex-SemiBold.otf") format("opentype");
+	font-weight: 600;
+}
